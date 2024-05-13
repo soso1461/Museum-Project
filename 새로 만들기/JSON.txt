@@ -1,0 +1,5 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/home/rpi4/museum-pjt/stt-project-11305-9d5264b2099f.json"
+
+하고
+
+source env/bin/activate 하면 됨

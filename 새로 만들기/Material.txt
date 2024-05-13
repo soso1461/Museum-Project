@@ -1,0 +1,16 @@
+White Wool,35,0,white_wool.png,234,236,237
+Orange Wool,35,1,orange_wool.png,241,118,20
+Magenta Wool,35,2,magenta_wool.png,190,69,180
+Light Blue Wool,35,3,light_blue_wool.png,58,175,217
+Yellow Wool,35,4,yellow_wool.png,249,198,40
+Lime Wool,35,5,lime_wool.png,112,185,26
+Pink Wool,35,6,pink_wool.png,238,141,172
+Gray Wool,35,7,gray_wool.png,63,68,72
+Light Gray Wool,35,8,light_gray_wool.png,142,142,135
+Cyan Wool,35,9,cyan_wool.png,21,138,145
+Purple Wool,35,10,purple_wool.png,122,42,173
+Blue Wool,35,11,blue_wool.png,53,57,157
+Brown Wool,35,12,brown_wool.png,114,72,41
+Green Wool,35,13,green_wool.png,85,110,28
+Red Wool,35,14,red_wool.png,161,39,35
+Black Wool,35,15,black_wool.png,21,21,26
